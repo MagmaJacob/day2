@@ -1,0 +1,21 @@
+.header{
+  height: 170px;
+  background-color: #0008FF;
+}
+.container-fluid{
+  background-color: #F3FF00;
+  padding: 10px;
+  padding-top: 50px;
+}
+.nav{
+  height: 70px;
+  background-color: #1F8A00;
+}
+.content{
+  height: 270px;
+  background-color: #FF0000;
+}
+.aside{
+  height: 270px; 
+  background-color: #00F7FF;
+}
