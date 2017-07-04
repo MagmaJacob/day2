@@ -1,6 +1,8 @@
 .header{
   height: 170px;
   background-color: #0008FF;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 .container-fluid{
   background-color: #F3FF00;
@@ -16,6 +18,10 @@
   background-color: #FF0000;
 }
 .aside{
-  height: 270px; 
+  height: 270px;
   background-color: #00F7FF;
+}
+.promo{
+  height: 170px;
+  background-color: #FF9E00;
 }
