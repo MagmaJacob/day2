@@ -25,3 +25,22 @@
   height: 170px;
   background-color: #FF9E00;
 }
+.green{
+  background-color: green;
+  height: 200px;
+}
+.red{
+  background-color: red;
+  height: 200px;
+}
+/*MEDIA QUERIES*/
+@media only screen and (max-width: 768px) {
+  .red{
+    background-color: blue;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .green{
+    background-color: purple;
+  }
+}
